@@ -1,0 +1,17 @@
+.textView{
+    margin: 15px 0px;
+    font-size: 18px;
+    padding: 2% 20%;
+}
+
+.btnTest{
+    font-size: 20px;
+    margin: 5% auto;
+    justify-content: center;
+    display: flex;
+    height: 20%;
+}
+
+.textShow{
+    color: #ff0000;
+}
