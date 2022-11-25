@@ -20,7 +20,7 @@ function StartTest() {
   const [dataQuestion, setDataQuestion] = useState([]);
   const [modalOpen, setModalOpen] = useState(false);
   const [modal2Open, setModal2Open] = useState(false);
-  const deadline = Date.now() + 1000 * 60 * 0.1;
+  const deadline = Date.now() + 1000 * 60 * 19;
 
   console.log(deadline);
 
